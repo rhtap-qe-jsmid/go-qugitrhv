@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: go-qugitrhv 
+  name: rhdh-rc-17-github-go-tekton-quay
   description: Secure Supply Chain Example for Go Runtime http based application with advanced continuous integration pipeline covering building, CVE scanning, security scanning, signatures,  attestations, SLSA provenance and SBOM along with Gitops-based continuous deployment   
   links:
     - url: https://www.redhat.com/en/solutions/trusted-software-supply-chain
